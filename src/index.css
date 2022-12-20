@@ -1,0 +1,7 @@
+.img-right {
+  transform: rotate(180deg);
+}
+
+.dev {
+  border: 1px solid red;
+}
